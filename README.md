@@ -1,10 +1,10 @@
-# 🧮 Simple Interest Calculator
+# Simple Interest Calculator
 
 A lightweight, easy-to-use tool for calculating simple interest on a principal amount over a given time period.
 
 ---
 
-## 📐 Formula
+## Formula
 
 $$SI = \frac{P \times R \times T}{100}$$
 
@@ -21,7 +21,7 @@ $$A = P + SI$$
 
 ---
 
-## ✨ Features
+## Features
 
 - Calculate simple interest instantly
 - Compute the total amount payable/receivable
@@ -31,7 +31,7 @@ $$A = P + SI$$
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -62,7 +62,7 @@ Or simply open `index.html` in your browser.
 
 ---
 
-## 💡 Example
+## Example
 
 | Input | Value |
 |-------|-------|
@@ -82,7 +82,7 @@ Total Amount = 5000 + 1200 = $6,200
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 IBM-Skills-Network-Git-Github-Project/
@@ -96,7 +96,7 @@ IBM-Skills-Network-Git-Github-Project/
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 ```bash
 npm test
@@ -104,7 +104,7 @@ npm test
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -118,10 +118,9 @@ Please make sure your code passes all existing tests before submitting.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Made with ❤️ | <a href="https://github.com/your-username/simple-interest-calculator">View on GitHub</a></p>
