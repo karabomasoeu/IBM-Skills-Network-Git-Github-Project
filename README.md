@@ -6,7 +6,7 @@ A lightweight, easy-to-use tool for calculating simple interest on a principal a
 
 ## Formula
 
-$$SI = \frac{P \times R \times T}{100}$$
+SI = \frac{P \times R \times T}{100}
 
 | Variable | Description |
 |----------|-------------|
@@ -17,7 +17,7 @@ $$SI = \frac{P \times R \times T}{100}$$
 
 **Total Amount:**
 
-$$A = P + SI$$
+A = P + SI
 
 ---
 
